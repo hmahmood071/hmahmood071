@@ -1,35 +1,72 @@
 <div align="center">
-# 👋 My Name Is Md. MAHMOOD HASSAN
 
-## 🚀 Welcome To My Website
+# Md. Mahmood Hassan
 
-**GitHub:** [hmahmood071](https://github.com/hmahmood071)
+### Web Developer • Problem Solver • Freelancer
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-hmahmood071-black?style=for-the-badge&logo=github)](https://github.com/hmahmood071)
 
-## 👨‍💻 About Me
-
-💻 **Web Developer**  
-💰 **Freelancer**
+</div>
 
 ---
 
-## 📝 Description
+## 👋 About Me
 
-I am Md. Mahmood Hassan, a dedicated and detail-oriented Web Developer with a strong passion for building clean, functional, and user-focused digital experiences.
+I’m Mahmood Hassan — a focused and detail-driven Web Developer who believes
+good websites are not decoration.
 
-I believe websites should not only look good but also work flawlessly, load fast, and serve real business goals.
+They are tools.
 
-With hands-on experience in modern web technologies, I specialize in designing and developing responsive, scalable, and performance-optimized websites.
+I build clean, responsive, and performance-optimized websites designed to:
 
-My development philosophy is simple:
+- Load fast  
+- Scale smoothly  
+- Solve real business problems  
+- Deliver clarity, not clutter  
+
+---
+
+## 💼 What I Do
+
+- Frontend Development  
+- Responsive Website Design  
+- Performance Optimization  
+- Clean UI Implementation  
+- Freelance Web Projects  
+
+---
+
+## 🧠 My Development Philosophy
+
+> Simplicity is not minimalism.  
+> It is discipline.
 
 - Clarity over clutter  
 - Performance over decoration  
 - Structure over chaos  
+- Function before flair  
 
 ---
 
-© 2026 Mahmood Website
+## ⚙️ Tech Focus
+
+HTML • CSS • JavaScript • WordPress • Git • GitHub  
+
+---
+
+## 📌 Current Focus
+
+Building modern, user-first websites that combine:
+
+- Speed  
+- Structure  
+- Simplicity  
+
+---
+
+<div align="center">
+
+© 2026 Mahmood Hassan  
+Built with intention.
 
 </div>
