@@ -1,44 +1,68 @@
-# 🌈 Mahmood Hassan - Colorful Portfolio 🌈
+<h1 align="center">
+  🌈 Mahmood Hassan - Colorful Portfolio 🌈
+</h1>
 
-Welcome to my **Colorful Portfolio Website**!  
-This is a vibrant, modern, and fully responsive website built with **HTML, CSS & JS**.  
-Click the link below to see it live:
+<p align="center">
+  <em>I build vibrant, fast, and lasting digital experiences</em>
+</p>
 
-[🚀 View Live Website](https://yourusername.github.io/portfolio/)
+<p align="center">
+  <a href="https://yourusername.github.io/portfolio/">
+    <img src="images/hero.png" alt="Hero Section" width="700"/>
+  </a>
+</p>
 
 ---
 
-## 🎨 Preview
+## 🌟 About Me
+<p align="center">
+  <img src="images/about.png" alt="About Section" width="600"/>
+</p>
+<p align="center">
+  I focus on clarity, structure, and performance. Strong code ages well.
+</p>
 
-### Hero Section
-![Hero Section](images/hero.png)
+---
 
-### About Me
-![About Section](images/about.png)
+## 💻 Services
+<p align="center">
+  <img src="images/services.png" alt="Services Section" width="600"/>
+</p>
+- Website Design  
+- Frontend Development  
+- Responsive Layout  
+- UI Optimization  
 
-### Services
-![Services Section](images/services.png)
+---
 
-### Portfolio
-![Portfolio Section](images/portfolio.png)
+## 🖼 Portfolio
+<p align="center">
+  <img src="images/portfolio.png" alt="Portfolio Section" width="600"/>
+</p>
+> Showcase your best projects here.  
 
-### Contact
-![Contact Section](images/contact.png)
+---
+
+## 📬 Contact Me
+<p align="center">
+  <img src="images/contact.png" alt="Contact Section" width="600"/>
+</p>
+Fill the form to get in touch with me!
 
 ---
 
 ## ✨ Features
 
-- 🌟 **Responsive Layout** – Looks great on all devices  
-- 🌟 **Gradient Buttons** – Animated hover effects  
-- 🌟 **Hero Image Hover** – Scale & shadow effect  
-- 🌟 **Scroll Reveal Animation** – Smooth entry for sections  
-- 🌟 **Hamburger Navbar** – Mobile-friendly navigation  
-- 🌟 **Colorful Pastel Sections** – Professional & eye-catching  
+- 🌈 **Colorful Pastel Sections** – eye-catching yet professional  
+- 🌈 **Gradient Buttons** – animated hover effects  
+- 🌈 **Hero Image Shadow & Scale** – subtle interactive animation  
+- 🌈 **Scroll Reveal Animation** – sections appear smoothly  
+- 🌈 **Responsive Navbar** – hamburger menu for mobile  
+- 🌈 **Fully Responsive Design** – works on all devices  
 
 ---
 
-## 🛠 Code Snippet
+## 🛠 Code
 
 ```html
-<!-- HTML, CSS & JS code of the website goes here -->
+<!-- Full HTML, CSS & JS of the website -->
