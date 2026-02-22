@@ -1,73 +1,54 @@
-<p align="center">
-  <img width="180" src="https://github.com/hmahmood071.png" alt="Mahmood Hassan Avatar" style="border-radius:50%; border: 5px solid; border-image: linear-gradient(90deg,#FF6B6B,#FFD93D,#6BCB77) 1;" />
-</p>
+<div align="center">
 
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #FF6B6B, #FFD93D, #6BCB77); -webkit-background-clip: text; color: transparent;">
-    Hi 👋, I’m Mahmood Hassan
-  </span>
-</h1>
+<img src="ChatGPT Image Feb 22, 2026, 11_33_03 AM.png" alt="hmahmood071 Banner" width="100%" style="border-radius: 10px;">
+
+# 🚀 Welcome to my Digital Space!
+### **I'm Mahmood Hassan** — *Turning complex ideas into elegant code.*
 
 <p align="center">
-  🎨 <b><span style="background: linear-gradient(90deg, #6BCB77, #4D96FF); -webkit-background-clip: text; color: transparent;">T-shirt & Logo Designer</span></b> | 🌐 <b><span style="background: linear-gradient(90deg, #FFD93D, #FF6B6B); -webkit-background-clip: text; color: transparent;">Web Developer</span></b> | 💎 Minimalist at heart
+  <img src="https://komarev.com/ghpvc/?username=hmahmood071&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://img.shields.io/github/followers/hmahmood071?label=Followers&style=flat&color=2ecc71" alt="Followers" />
 </p>
 
 ---
 
-## 🌈 About Me
-<div style="background: linear-gradient(90deg, #FFDEE9, #B5FFFC); padding: 18px; border-radius: 15px;">
-I craft visuals that speak <b>without shouting</b>.<br>
-Rooted in Bangladesh 🇧🇩, I combine **timeless values** with **modern style**.  
+### 🧑‍💻 **About Me**
+A passionate **Full-Stack Developer** focused on building clean, scalable, and user-centric applications. I love exploring new technologies and pushing the boundaries of what's possible on the web.
 
-- 🎨 Passion: <span style="background: linear-gradient(90deg, #6BCB77, #4D96FF); -webkit-background-clip: text; color: transparent;">T-shirt & Logo Design</span>  
-- 💻 Web: <span style="background: linear-gradient(90deg, #FFD93D, #FF6B6B); -webkit-background-clip: text; color: transparent;">HTML, CSS, JavaScript, WordPress</span>  
-- 🛠️ Tools: <span style="background: linear-gradient(90deg, #FF6B6B, #6BCB77); -webkit-background-clip: text; color: transparent;">Illustrator, Photoshop, Figma, VSCode, Node.js</span>  
+**Current Focus:** ⚡ Next.js | 🎨 Modern UI/UX | ☁️ Cloud Architecture
+
+---
+
+### 🛠 **My Tech Stack**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,figma&perline=6" />
+  </a>
+</p>
+
+---
+
+### 📊 **GitHub Statistics**
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=hmahmood071&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400px"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmahmood071&layout=compact&theme=tokyonight&hide_border=true" width="300px"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 💡 My Skills
-<div style="background: linear-gradient(90deg, #A1FFCE, #FAFFD1); padding: 18px; border-radius: 15px;" align="center">
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+### 📫 **Connect with Me**
+<p align="left">
+<a href="mailto:mhassanwbdpr+++++@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.behance.net/mahmoodhassan19"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/mhassan_mukul"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</p>
+
 </div>
-
----
-
-## 🚀 Projects Timeline
-<div style="background: linear-gradient(90deg, #FFDEE9, #B5FFFC); padding: 18px; border-radius: 15px; text-align:center;">
-
-| Project | Description | Preview |
-|--------|-------------|--------|
-| 🌟 **Portfolio Website** | Colorful, clean, fully responsive | <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="160" class="gif-hover" /> |
-| 👕 **T-shirt Collection** | Minimal & classic designs | <img src="https://media.giphy.com/media/l3vR3dWxWPC0IQO8M/giphy.gif" width="160" class="gif-hover" /> |
-| 📊 **Banking AI Slides** | Productivity & AI tools training | <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="160" class="gif-hover" /> |
-
-<div class="timeline-bar"></div>
-
-> *(Replace GIF URLs with your actual T-shirt/logo designs)*
-</div>
-
----
-
-## 📫 Connect With Me
-<div style="background: linear-gradient(90deg, #FAFFD1, #A1FFCE); padding: 18px; border-radius: 15px;" align="center">
-  <a href="mailto:hmahmood071@gmail.com"><img src="https://img.shields.io/badge/Email-hmahmood071@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/hmahmood071"><img src="https://img.shields.io/badge/GitHub-hmahmood071-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.behance.net/mahmoodhassan19"><img src="https://img.shields.io/badge/Behance-Mahmood-blue?style=for-the-badge&logo=behance" /></a>
-</div>
-
----
-
-## 📊 GitHub Stats
-<div style="background: linear-gradient(90deg, #A1FFCE, #FAFFD1); padding: 18px; border-radius: 15px;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hmahmood071&show_icons=true&theme=radical" />
-</div>
-
----
-
-> “Design is where my thoughts settle — **simple lines, clean stories, work that lasts**.”
