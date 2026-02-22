@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="ChatGPT Image Feb 22, 2026, 11_33_03 AM.png" alt="hmahmood071 Banner" width="100%" style="border-radius: 10px;">
+<img src="Gemini_Generated_Image_16qsta16qsta16qs.png" alt="hmahmood071 Banner" width="100%" style="border-radius: 10px;">
 
 # 🚀 Welcome to my Digital Space!
 ### **I'm Mahmood Hassan** — *Turning complex ideas into elegant code.*
