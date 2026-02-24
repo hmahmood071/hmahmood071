@@ -1,5 +1,4 @@
 <div align="center">
-
   <img src="website.png" alt="hmahmood071 Banner" width="100%" style="border-radius: 10px;">
 
   # 🚀 Welcome to my Digital Space!
@@ -22,25 +21,17 @@
   ### 🛠 **My Tech Stack**
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,figma&perline=6" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,vscode,git,figma&perline=7" />
     </a>
   </p>
 
   ---
 
-  ### 📊 **GitHub Statistics**
-  <div align="center">
-    <table border="0">
-      <tr>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=hmahmood071&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400px"/>
-        </td>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmahmood071&layout=compact&theme=tokyonight&hide_border=true" width="300px"/>
-        </td>
-      </tr>
-    </table>
-  </div>
+  ### 📊 GitHub Analytics
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hmahmood071&show_icons=true&theme=tokyonight&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hmahmood071&layout=compact&theme=tokyonight" />
+  </p>
 
   ---
 
