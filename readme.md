@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="website.png" alt="hmahmood071 Banner" width="100%" style="border-radius: 10px;">
+  <img src="2.jpg" alt="hmahmood071 Banner" width="100%" style="border-radius: 10px;">
 
   # 🚀 Welcome to my Digital Space!
   ### **I'm Mahmood Hassan** — *Turning complex ideas into elegant code.*
