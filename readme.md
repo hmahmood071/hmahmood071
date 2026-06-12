@@ -4,10 +4,7 @@
   # 🚀 Welcome to my Digital Space!
   ### **I'm Mahmood Hassan** — *Turning complex ideas into elegant code.*
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=hmahmood071&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-    <img src="https://img.shields.io/github/followers/hmahmood071?label=Followers&style=flat&color=2ecc71" alt="Followers" />
-  </p>
+
 
   ---
 
