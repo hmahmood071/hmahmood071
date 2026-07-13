@@ -1,11 +1,6 @@
 <div align="center">
   <img src="my photo.jpg" alt="hmahmood071 Banner" width="100%" style="border-radius: 10px;">
 
-  <!-- স্টেবল ভিজিটর কাউন্টার -->
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/hmahmood071/count.svg" alt="hmahmood071 Views" />
-  </p>
-
   # 🚀 Welcome to my Digital Space!
 
   <!-- Animated Typing Effect -->
