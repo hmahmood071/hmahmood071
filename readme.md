@@ -1,6 +1,5 @@
 <div align="center">
   <img src="my photo.jpg" alt="hmahmood071 Banner" width="100%" style="border-radius: 10px;">
-
   # 🚀 Welcome to my Digital Space!
   ### **I'm Mahmood Hassan** — *Turning complex ideas into elegant code.*
 
@@ -16,7 +15,7 @@
   ### 🛠 **My Tech Stack**
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,daisyui,mui,vscode,figma&perline=6" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,mui,vscode,figma&perline=5" />
     </a>
   </p>
 
