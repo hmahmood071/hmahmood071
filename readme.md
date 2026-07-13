@@ -17,15 +17,6 @@
 
   ---
 
-  ### 🏆 **My GitHub Trophies**
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=hmahmood071&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="hmahmood071 Trophies" width="100%"/>
-    </a>
-  </p>
-
-  ---
-
   ### 🧑‍💻 **About Me**
   A passionate **Full-Stack Developer** focused on building clean, scalable, and user-centric applications. I love exploring new technologies and pushing the boundaries of what's possible on the web.
 
@@ -42,16 +33,19 @@
 
   ---
 
-  ### 📊 GitHub Analytics
+  ### 📊 GitHub Analytics & 🔥 Streaks
   <p align="center">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hmahmood071&show_icons=true&theme=tokyonight&count_private=true" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=hmahmood071&theme=tokyonight" />
+  </p>
+  <p align="center">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hmahmood071&layout=compact&theme=tokyonight" />
   </p>
 
   ---
 
   ### 🐍 **My Contribution Snake Game**
-  <!-- গিটহাবের সবুজ ডটগুলো দিয়ে সাপ খেলার এই অ্যানিমেশনটি প্রোফাইলকে জাস্ট নেক্সট লেভেলে নিয়ে যাবে -->
+  <!-- আপনার গিটহাব গ্রিডের ওপর সাপ চলার এই অ্যানিমেশনটি মানুষের নজর কাড়বেই -->
   <p align="center">
     <img src="https://github-readme-dark-mode-snake.vercel.app/github-contribution-grid-snake-dark.svg?username=hmahmood071" alt="Snake Animation" />
   </p>
