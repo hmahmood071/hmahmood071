@@ -17,7 +17,7 @@
 
   ---
 
-  ### 🏆 **My GitHub Trophies (মানুষকে অবাক করার জন্য)**
+  ### 🏆 **My GitHub Trophies**
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=hmahmood071&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="hmahmood071 Trophies" width="100%"/>
