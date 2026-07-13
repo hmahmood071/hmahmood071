@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="my photo.jpg" alt="hmahmood071 Banner" width="100%" style="border-radius: 10px;">
+  <img src="my-photo.jpg" alt="hmahmood071 Banner" width="100%" style="border-radius: 10px;">
 
   # 🚀 Welcome to my Digital Space!
   ### **I'm Mahmood Hassan** — *Turning complex ideas into elegant code.*
-
-
 
   ---
 
@@ -18,7 +16,7 @@
   ### 🛠 **My Tech Stack**
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,mongodb,vscode,git,figma&perline=5" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,daisyui,mui,vscode,figma&perline=6" />
     </a>
   </p>
 
@@ -33,10 +31,9 @@
   ---
 
   ### 📫 **Connect with Me**
-  <p align="left">
-    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=jrjtXRHDwtrbhPjCQwTxllspdQmWVPjbNxwkWvgKCkWsWHGZRSTfRPMdcfWGwlpFqrfCPvSD"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.behance.net/mahmoodhassan19"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/mhassan_mukul"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <p align="center">
+    <a href="mailto:hmahmood071@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://x.com/mhassan_mukul" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   </p>
 
 </div>
