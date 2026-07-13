@@ -1,8 +1,19 @@
 <div align="center">
   <img src="my photo.jpg" alt="hmahmood071 Banner" width="100%" style="border-radius: 10px;">
 
+  <!-- Dynamic Visitor Counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghvc/?username=hmahmood071&label=Profile%20Views&color=0e76a8&style=flat-square" alt="hmahmood071 Views" />
+  </p>
+
   # 🚀 Welcome to my Digital Space!
-  ### **I'm Mahmood Hassan** — *Turning complex ideas into elegant code.*
+
+  <!-- Animated Typing Effect -->
+  <p align="center">
+    <a href="https://github.com/hmahmood071">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=I'm+Mahmood+Hassan;Full-Stack+Developer;React+%7C+Next.js+Specialist;Turning+complex+ideas+into+elegant+code." alt="Typing Effect" />
+    </a>
+  </p>
 
   ---
 
