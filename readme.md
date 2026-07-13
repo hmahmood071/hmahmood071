@@ -8,11 +8,9 @@
 
   # 🚀 Welcome to my Digital Space!
 
-  <!-- Animated Neon Typing Effect -->
+  <!-- ১০০% ফিক্সড এবং ক্যাশ-ফ্রি অ্যানিমেটেড টাইপিং ইফেক্ট -->
   <p align="center">
-    <a href="https://github.com/hmahmood071">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=550&lines=I'm+Mahmood+Hassan;⚡+Full-Stack+Developer;🎨+React+%7C+Next.js+Specialist;Coding+is+my+superpower!" alt="Typing Effect" />
-    </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=550&lines=I'm+Mahmood+Hassan;%E2%9A%A1+Full-Stack+Developer;%F0%9F%8E%A8+React+%7C+Next.js+Specialist;Coding+is+my+superpower!&cache=false" alt="Typing Effect" />
   </p>
 
   ---
@@ -24,8 +22,7 @@
 
   ---
 
-  ### 🛠 **My Tech Stack**
-  <!--theme=fluid দেওয়ার কারণে আইকনগুলোর ওপর একটা সুন্দর অ্যানিমেটেড ওয়েভ ইফেক্ট থাকবে -->
+  ### 🛠 **My Tech Stack (Animated Wave)**
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,mui,vscode,figma&theme=fluid&perline=5" />
@@ -35,7 +32,6 @@
   ---
 
   ### 📈 **Crazy Live Activity Radar**
-  <!-- এটি আপনার রিয়েল-টাইম গিটহাব অ্যাক্টিভিটির একটি অ্যানিমেটেড চার্ট দেখাবে -->
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmahmood071&theme=tokyonight&area=true&category=commits" width="100%" alt="Activity Graph" />
   </p>
