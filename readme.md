@@ -1,9 +1,9 @@
 <div align="center">
   <img src="my photo.jpg" alt="hmahmood071 Banner" width="100%" style="border-radius: 10px;">
 
-  <!-- Dynamic Visitor Counter -->
+  <!-- স্টেবল ভিজিটর কাউন্টার -->
   <p align="center">
-    <img src="https://komarev.com/ghvc/?username=hmahmood071&label=Profile%20Views&color=0e76a8&style=flat-square" alt="hmahmood071 Views" />
+    <img src="https://profile-counter.glitch.me/hmahmood071/count.svg" alt="hmahmood071 Views" />
   </p>
 
   # 🚀 Welcome to my Digital Space!
